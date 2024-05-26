@@ -18,7 +18,7 @@
   "dependencies": {
     "csv-parse": "^4.14.2",
     "linq": "^3.2.3",
-    "luxon": "^1.25.0",
+    "luxon": "^1.28.1",
     "wildcard-match": "^5.1.0"
   }
 }
