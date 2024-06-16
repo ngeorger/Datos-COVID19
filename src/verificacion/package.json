@@ -13,12 +13,12 @@
     "@types/jest": "^26.0.20",
     "@types/luxon": "^1.25.0",
     "@types/node": "^14.14.20",
-    "jest": "^26.6.3"
+    "jest": "^29.7.0"
   },
   "dependencies": {
     "csv-parse": "^4.14.2",
     "linq": "^3.2.3",
-    "luxon": "^1.25.0",
+    "luxon": "^1.28.1",
     "wildcard-match": "^5.1.0"
   }
 }
